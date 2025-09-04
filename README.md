@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @Smuts94
-- 👀 I’m interested in UX Research
-- 🌱 I’m currently learning R
-- 💞️ I’m looking to collaborate on building apps
+- 👋 Hi, I’m @JanJo
+- 👀 I’m interested in data-driven and ai-driven projects
 - 📫 Message me via [LinkedIn](https://www.linkedin.com/in/jan-joosten/)
 
 <!---
