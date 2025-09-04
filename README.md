@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JanJo
+- 👋 Hi, I’m @Smuts94
 - 👀 I’m interested in data-driven and ai-driven projects
 - 📫 Message me via [LinkedIn](https://www.linkedin.com/in/jan-joosten/)
 
